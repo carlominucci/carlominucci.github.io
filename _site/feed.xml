@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Minucci a.k.a. Gecco</title>
+    <description>Carlo Minucci a.k.a. Gecco: tuttologo.
+</description>
+    <link>https://carlominucci.github.io/</link>
+    <atom:link href="https://carlominucci.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 Dec 2017 11:08:16 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 11:08:16 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>
