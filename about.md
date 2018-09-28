@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Carlo Minucci a.k.a. Gecco.  
-Attivista nel campo dell'open source e della musica: programmatore, innovatore, attivista, camminatore, fan, arrampicatore della domenica, curioso, musicista poliedrico.
+Attivista nel campo dell'open source e della musica: programmatore, innovatore, attivista, maker, camminatore, fan, arrampicatore della domenica, curioso, musicista poliedrico, aspirante tuttologo.
 
 * email: gecco@napodano.com
 * [Facebook](https://www.facebook.com/gecco)
