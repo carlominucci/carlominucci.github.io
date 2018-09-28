@@ -15,5 +15,6 @@ Attivista nel campo dell'open source e della musica: programmatore, innovatore, 
 * [Blog](https://minucci.net/blog)
 * [Flickr](https://www.flickr.com/photos/gecco/)
 * [Instagram](https://www.instagram.com/carlo.minucci/)
+* [YouTube](https://www.youtube.com/channel/UC7YSDwD126sBVstjovjScLw)
 * [Amazon Wishlist](https://www.amazon.it/hz/wishlist/ls/1QLH9JFTM9BGM?&sort=default)
 
